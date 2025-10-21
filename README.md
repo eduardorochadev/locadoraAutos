@@ -2,10 +2,11 @@
 
 Projeto de landing page responsiva para a KX Motors, uma empresa fictícia de aluguel de veículos, desenvolvido em HTML, CSS e JavaScript puros.
 
-//![Prévia da Landing Page](https://placehold.co/1200x800.png?text=Adicione+um+screenshot+do+projeto+aqui)
+```
+![Prévia da Landing Page](https://placehold.co/1200x800.png?text=Adicione+um+screenshot+do+projeto+aqui)
 
 //**Nota:** Substitua a imagem acima por um screenshot real do seu projeto!
-
+```
 ## 📋 Índice
 
 * [Sobre o Projeto](#-sobre-o-projeto)
