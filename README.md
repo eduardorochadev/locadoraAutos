@@ -2,9 +2,9 @@
 
 Projeto de landing page responsiva para a KX Motors, uma empresa fictícia de aluguel de veículos, desenvolvido em HTML, CSS e JavaScript puros.
 
-![Prévia da Landing Page](https://placehold.co/1200x800.png?text=Adicione+um+screenshot+do+projeto+aqui)
+//![Prévia da Landing Page](https://placehold.co/1200x800.png?text=Adicione+um+screenshot+do+projeto+aqui)
 
-**Nota:** Substitua a imagem acima por um screenshot real do seu projeto!
+//**Nota:** Substitua a imagem acima por um screenshot real do seu projeto!
 
 ## 📋 Índice
 
@@ -42,13 +42,13 @@ Este é um projeto estático, não necessitando de um servidor ou dependências.
 
 1.  Clone este repositório (ou simplesmente baixe os arquivos):
     ```bash
-    git clone [https://github.com/seu-usuario/kx-motors-landpage.git](https://github.com/seu-usuario/kx-motors-landpage.git)
+    git clone [https://github.com/seu-usuario/kx-motors-landpage.git](https://github.com/eduardorochadev/locadoraAutos.git)
     ```
     *(Substitua pelo URL do seu repositório)*
 
 2.  Navegue até a pasta do projeto:
     ```bash
-    cd kx-motors-landpage
+    cd locadoraAutos
     ```
 
 3.  Abra o arquivo `index.html` no seu navegador de preferência.
